@@ -1,7 +1,7 @@
 name: skyaotic
 favicon: null
-layout_spectrum: 0.86594
-typography_spectrum: 0.54562
+layout_spectrum: 0.3801
+typography_spectrum: 0.2876
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ff5722'
     - '#dc9843'
     - '#ffffff'
-  brandStrength: 0.5625
-  lightness: 0.9375
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.75
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose: []
