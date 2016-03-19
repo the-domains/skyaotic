@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-75324935-1 Status
   facebook: null
   twitter: null
 opengraph:
