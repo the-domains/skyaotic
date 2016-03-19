@@ -23,6 +23,6 @@ color:
     - '#ad6a19'
   brandStrength: 1
   lightness: 0.9375
-  saturation: 0.8125
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
