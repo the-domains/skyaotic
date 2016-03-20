@@ -1,4 +1,19 @@
-analytics: {}
+name: skyaotic
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.65889
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-75324935-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#8090C0'
@@ -8,11 +23,6 @@ color:
     - '#40F0B0'
   brandStrength: 0
   lightness: 1
-  rhythmicContrast: 1
   saturation: 0.509009
-cta: {}
-layout_spectrum: 0
-name: skyaotic
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.65889
