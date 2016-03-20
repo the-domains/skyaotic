@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[skyaotic]]></title>
         <description><![CDATA[skyaotic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skyaotic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 19:02:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 10:42:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skyaotic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My best homemade pizza 👌🍕😘😝]]></title>
+            <description><![CDATA[<article><h1>My best homemade pizza 👌🍕😘😝</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1b2cf0eb5158d74e9f5b0bf855136ce7a282b9.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/_WYiTzMwHaC315zFqQWwt9rY5qvO-hDglK_440/?taken-by=d_asher</link>
+            <guid isPermaLink="false">311fa712-fa9f-4f12-b43c-d2b49b31c0cd</guid>
+            <pubDate>Sun, 20 Mar 2016 10:42:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Odd]]></title>
             <description><![CDATA[<article><h1>Odd</h1><p>Today I’m sitting on a ledge, looking at the beach I used to walk by with my parents and baby sister when I was little – it’s different.I remember walking around and watching street performers painting, playing music, acting. We just enjoyed the magic, Spending our most valuable currency, our time, on a Peace of mind, for that evening.</p></article>]]></description>
-            <link>undefinedodd/index.html</link>
+            <link>https://thegrid.ai/skyaotic/odd/index.html</link>
             <guid isPermaLink="false">e6b67a7f-7ce2-4452-8416-cb8aa7132c2a</guid>
             <pubDate>Sat, 19 Mar 2016 19:01:53 GMT</pubDate>
         </item>
