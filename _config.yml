@@ -2,15 +2,15 @@ layout_spectrum: 0.9492908762767911
 typography_spectrum: 0.28246608772315085
 color:
   brandColors:
-    - '#354242'
-    - '#ACEBAE'
-    - '#FFFF9D'
-    - '#C9DE55'
-    - '#7D9100'
-  brandStrength: 0.7774933082982898
-  lightness: 0.24501514504663646
-  saturation: 0.7509911637753248
-  rhythmicContrast: 0.17482226202264428
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.6027010129764676
+  lightness: 0.5926631512120366
+  saturation: 0.6699628492351621
+  rhythmicContrast: 0.40469098393805325
 coverPrefs:
   filter: false
 name: skyaotic
